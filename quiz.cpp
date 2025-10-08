@@ -1,5 +1,5 @@
 /**
-* PROYECTO ARDUINO QUIZ MÚLTIPLE CHOICE
+* PROYECTO ARDUINO QUIZ (MÚLTIPLE CHOICE)
 * ================================================================================
 * 
 * Este código implementa un sistema de quiz interactivo para Arduino que utiliza 
