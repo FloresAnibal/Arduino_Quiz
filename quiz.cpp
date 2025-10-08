@@ -226,11 +226,11 @@ void mostrarResultadoFinal() {
   if (MOSTRAR_RETROALIMENTACION) {
     String mensaje = obtenerMensajeRetroalimentacion(porcentaje);
     centrarTexto(mensaje, 1);
+  }
+  
     delay(3000);
     lcd.setCursor(0, 1);
     lcd.print("OK para terminar");
-  }
-
 }
 
 void mostrarMensajeContinuar() {
